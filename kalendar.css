@@ -1,0 +1,265 @@
+.size
+{
+    height: 43px;
+    width: 243px;
+    border-radius: nullpx;    
+    font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: 42px;
+letter-spacing: 0px;
+text-align: left;
+margin-right: auto;
+flex-grow:0;
+flex-shrink:0 ;
+flex-basis:243px ;
+margin-left: 50px;
+
+}
+.Sophia
+{
+width: 900px;
+height: 124px;
+background: rgba(133, 118, 237, 0.15);
+margin-top: 133px;
+margin-left: 120px;
+}
+.Studio
+{
+    width: 900px;
+    height: 309px;
+    background: rgba(61, 131, 249, 0.15);
+    margin-top: 120px;
+    margin-left: 120px;
+}
+.Design
+{
+    width: 900px;
+    height: 245px;
+    background: rgba(238, 165, 124, 0.15);
+    margin-top: 180px;
+    margin-left: 120px;
+}
+.Meet{
+    font-family: Roboto;
+font-size: 28px;
+font-style: normal;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0px;
+padding-left: 74px;
+padding-top: 45px;
+padding-bottom: 46px;
+padding-right: 61px;
+
+
+}
+.central
+{
+    height: 1795px;
+    width: 1535px;
+    left: 4496px;
+    top: -3112px;
+    border-radius: 0px;
+    
+}
+.work
+{
+    height: 33px;
+    width: 985px;
+    left: 4846px;
+    top: -2397px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0px;
+    padding-left: 75px;
+    padding-top: 138px;
+    padding-bottom: 138px;    
+}
+.ive
+{
+    height: 33px;
+    width: 985px;
+    left: 4846px;
+    top: -1941px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0px;
+    padding-left: 75px;
+    padding-top: 106px;
+    padding-bottom: 106px;
+        
+}
+.box{
+    display: flex;
+    padding-top: 43px;
+    padding-left: 32px;
+    justify-content: flex-end;
+}
+.search{
+    background: transparent;
+    border: 0;
+    margin-right: 0px;
+}
+
+.search ,
+.layout 
+ {
+display: flex;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+
+
+}
+.search{
+    margin-right: 450px
+    border: none;
+    padding: 30px;
+}
+.layout {
+    margin-right: 550px;
+    
+}
+.right-panel{
+    height: 1800px;
+width: 800px;
+left: 6031px;
+top: -3113px;
+border-radius: 0px;
+
+ 
+}
+.kalendar{
+    height: 1006px;
+width: 802px;
+left: 6029px;
+top: -3113px;
+border-radius: 0px;
+
+}
+.month{
+    display: flex;
+    justify-content: center;
+    font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: 42px;
+letter-spacing: 0px;
+text-align: center;
+
+
+}
+.weak{
+    display: flex;
+    justify-content: center; 
+}
+.weak-day{
+    list-style: none;
+    font-family: Roboto;
+font-size: 26px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: center;
+font: Roboto; 
+color:hsla(0, 0%, 100%, 1)
+
+}
+.number-off {
+    list-style: none;
+    font-family: Roboto;
+font-size: 29px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: center;
+
+
+}
+.number-offf{
+    list-style: none;
+    font-family: Roboto;
+font-size: 29px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: center;
+
+     
+}
+.number-offff{
+    list-style: none;
+    font-family: Roboto;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    
+}
+.number-offfff{
+    list-style: none; 
+    font-family: Roboto;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    
+}
+.number-offffff{
+    list-style: none; 
+    font-family: Roboto;
+font-size: 29px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: center;
+
+}
+.right-panel{
+   background:  rgba(42, 46, 65, 0.7);
+}
+.previus-img{
+    padding-right: 90px;
+    background: transparent;
+    border: 0;
+    
+}
+.day-next{
+    padding-left: 90px;
+    background: transparent;
+    border: 0; 
+}
+.previus-img :hover {
+    cursor: pointer;
+}
+.day-next{
+    cursor: pointer; 
+}
+.oval{
+    background: #3C82F9;
+    
+}
+.left-panel{
+    width: 1020px;
+    margin: none;
+    border: none;  
+}
